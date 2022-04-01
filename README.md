@@ -8,7 +8,7 @@ How to use :
 
 --- BACKEND ---
 1. Step : Must be MongoDB
-2. Step : .env file MONGO_DB_BASE_URL: [YOUR_MONGODB_URL]
+2. Step : Create a .env file MONGO_DB_BASE_URL: [YOUR_MONGODB_URL]
 3. Step : npm install 
 4. Step : npm run start:dev
 
